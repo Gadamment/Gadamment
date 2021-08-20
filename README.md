@@ -1,7 +1,6 @@
 <div> 
 <p align="center">
  <a href="https://www.linkedin.com/in/josé-de-carvalho-bastos-neto-8598b1218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/josecarvalhob" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </p>
 </div>
 
