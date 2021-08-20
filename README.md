@@ -7,7 +7,7 @@
 
  <hr>
  
-<div align="center">
+<div>
 <p>
   <a href="https://github.com/gadamment">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=gadamment&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" max_width="100%"/>
