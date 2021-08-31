@@ -25,8 +25,5 @@
   
  <div align="center">
   <img align="center" height="150px" alt="Mario-maker" src="https://i.giphy.com/media/H4nUqdNomOWzJfoIa6/giphy.webp">
- </div>
- 
-![Snake animation](https://github.com/gadamment/gadamment/blob/output/github-contribution-grid-snake.svg)
- 
+ </div> 
  </div>
