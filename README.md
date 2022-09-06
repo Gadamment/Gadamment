@@ -4,16 +4,7 @@
 </p>
 </div>
 
- <hr>
- 
-<div align="center">
-<p>
-  <a href="https://github.com/Gadamment">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Gadamment&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" width="350"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gadamment&layout=compact&langs_count=7&theme=onedark" width="420"/>
-</p>
  </div>
-  
  <h1 align="center" >SKILLS</h1>
  <div align="center"><br>
   <img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
